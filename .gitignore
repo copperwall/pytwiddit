@@ -1,0 +1,4 @@
+# No virtualenv directory
+env
+# No swap files
+*.swp
